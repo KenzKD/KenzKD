@@ -1,4 +1,6 @@
-## Hi there 👋
+## Kenzel Game Dev
+
+I am a Game Developer with Experience in Unity, Unreal Engine 5, Blender, Houdini, Nvidia Omniverse, C#, C++ and C
 
 <!--
 **KenzKD/KenzKD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
