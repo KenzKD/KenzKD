@@ -4,7 +4,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 <!--About Me-->
-I am a Skilled Game Developer with Experience in Unity, Unreal Engine 5, Blender, Houdini, Nvidia Omniverse, C#, C++ and C.
+I am a **Skilled Game Develope**r with **Experience** in **Unity, Unreal Engine 5, Blender, Houdini, Nvidia Omniverse, C#, C++ and C.**
 
 ### Skills
 [![Unity](https://img.shields.io/badge/unity-white.svg?style=for-the-badge&logo=unity&logoColor=black)](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
