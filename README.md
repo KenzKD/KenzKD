@@ -1,5 +1,8 @@
 # Kenzel : Game Developer
 
+### About Me
+I am a Skilled Game Developer with Experience in Unity, Unreal Engine 5, Blender, Houdini, Nvidia Omniverse, C#, C++ and C.
+
 ### Socials
 [![Link Tree Alternative](https://img.shields.io/badge/Link_Tree-purple?style=for-the-badge&logo=linktree&color=a100ff)](https://linktr.ee/KenzelKD)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-074c91?style=for-the-badge&logo=linkedin)]()
