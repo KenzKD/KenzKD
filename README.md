@@ -50,3 +50,9 @@ I am a **Skilled Game Developer** with **Experience** in **Unity, Unreal Engine 
 
 ### DaVinci Resolve
 - Color Grading, Sound & Visual Effects, Transitions, UI & UX
+
+## Education[🔝](#intro)
+
+### Manipal Institute of Technology | 2019 - 2023
+- BTech in Computer Science Engineering
+
