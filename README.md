@@ -30,4 +30,22 @@ I am a **Skilled Game Developer** with **Experience** in **Unity, Unreal Engine 
 - Trained 10+ New Recruits in Unreal Engine 5 and Blender.
 - Built up the Version Control Infrastructure.
 
+## Projects
 
+### Unity
+- C#, Game Design, Game Mechanics, 3D Animation
+
+### Unreal Engine 5
+- Level design, Visual Scripting, Sound Design, Ray Tracing
+
+### Blender
+- 3D Modelling, Sculpting, Animation, Simulations, Texturing
+
+### Houdini
+-  Snow Simulation, Hair Simulation, Liquid Simulation, Particle Simulation
+
+### Nvidia Omniverse
+-  Rigid Body Simulation, Soft body Simulation, Cloth Simulation
+
+### DaVinci Resolve
+- Color Grading, Sound & Visual Effects, Transitions, UI & UX
