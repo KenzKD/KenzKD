@@ -1,6 +1,7 @@
+<a id="Intro"></a>
 [![Link Tree Alternative](https://img.shields.io/badge/Link_Tree-purple?style=for-the-badge&logo=linktree&color=a100ff)](https://linktr.ee/KenzelKD)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-074c91?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kenzelkd/)
-[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCxmsySbe12LYAMnIzT9wCJA?style=for-the-badge&logo=youtube&label=YouTube&labelColor=red&color=grey)](https://www.youtube.com/@KenzelKD)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-074c91?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kenzelkd/) 
+[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCxmsySbe12LYAMnIzT9wCJA?style=for-the-badge&logo=youtube&label=YouTube&labelColor=red&color=grey)](https://www.youtube.com/@KenzelKD) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kenzelkdsouza@gmail.com)
 
 <!--About Me-->
@@ -18,7 +19,7 @@ I am a **Skilled Game Developer** with **Experience** in **Unity, Unreal Engine 
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://www.sololearn.com/Certificate/CT-5RVYYRAN/jpg)
 [![C](https://img.shields.io/badge/C-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=00599C)](https://www.sololearn.com/en/certificates/CT-TURS22C1)
 
-## Experience [🔝](#skills)
+## Experience [🔝](#intro)
 
 ### Learn with One | Game Developer
 **(+6 Months)** Jan 2024 - Current
@@ -30,7 +31,7 @@ I am a **Skilled Game Developer** with **Experience** in **Unity, Unreal Engine 
 - Trained 10+ New Recruits in Unreal Engine 5 and Blender.
 - Built up the Version Control Infrastructure.
 
-## Projects[🔝](#skills)
+## Projects[🔝](#intro)
 
 ### Unity
 - C#, Game Design, Game Mechanics, 3D Animation
