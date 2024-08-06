@@ -13,8 +13,7 @@ I am a **Skilled Game Developer** with **Experience** in **Unity, Unreal Engine 
 [![Houdini](https://img.shields.io/badge/Houdini-%23FF4713?style=for-the-badge&logo=houdini&logoColor=white)](https://docs.google.com/presentation/d/1pFsYDFRGXi_IweLAtwN8sZRqx1JaddyiYzQz3FwoxqE/edit#slide=id.g2ad8d534cb9_0_78)
 [![NVIDIA Omniverse](https://img.shields.io/badge/NVIDIA_Omniverse-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)](https://docs.google.com/presentation/d/1pFsYDFRGXi_IweLAtwN8sZRqx1JaddyiYzQz3FwoxqE/edit#slide=id.g2ad8d534cb9_0_60)
 [![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-%23233A51?style=for-the-badge&logo=davinciresolve)](https://docs.google.com/presentation/d/1pFsYDFRGXi_IweLAtwN8sZRqx1JaddyiYzQz3FwoxqE/edit#slide=id.g2ad8d534cb9_0_106)
-
-### Languages
+<!--### Languages-->
 [![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)](https://www.sololearn.com/Certificate/CT-OY0XST1U/jpg)
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://www.sololearn.com/Certificate/CT-5RVYYRAN/jpg)
 [![C](https://img.shields.io/badge/C-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=00599C)](https://www.sololearn.com/en/certificates/CT-TURS22C1)
