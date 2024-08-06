@@ -7,7 +7,7 @@
 <!--About Me-->
 I am a **Skilled Game Developer** with **Experience** in **Unity, Unreal Engine 5, Blender, Houdini, Nvidia Omniverse, C#, C++ and C.**
 
-## Skills
+## Skills [🔝](#intro)
 [![Unity](https://img.shields.io/badge/unity-white.svg?style=for-the-badge&logo=unity&logoColor=black)](https://docs.google.com/presentation/d/1pFsYDFRGXi_IweLAtwN8sZRqx1JaddyiYzQz3FwoxqE/edit#slide=id.g2ad8d534cb9_0_55)
 [![Unreal Engine](https://img.shields.io/badge/unreal_engine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)](https://docs.google.com/presentation/d/1pFsYDFRGXi_IweLAtwN8sZRqx1JaddyiYzQz3FwoxqE/edit#slide=id.g2ad8d534cb9_0_50)
 [![Blender](https://img.shields.io/badge/blender-%23E87D0D.svg?style=for-the-badge&logo=blender&logoColor=white)](https://docs.google.com/presentation/d/1pFsYDFRGXi_IweLAtwN8sZRqx1JaddyiYzQz3FwoxqE/edit#slide=id.g2ad8d534cb9_0_45)
@@ -56,3 +56,12 @@ I am a **Skilled Game Developer** with **Experience** in **Unity, Unreal Engine 
 ### Manipal Institute of Technology | 2019 - 2023
 - BTech in Computer Science Engineering
 
+---
+<div align="center">
+  <h3 href = https://github.com/KenzKD#intro>Back to Top 🔝</h3>
+  
+  [![Link Tree Alternative](https://img.shields.io/badge/Link_Tree-purple?style=for-the-badge&logo=linktree&color=a100ff)](https://linktr.ee/KenzelKD)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-074c91?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kenzelkd/) 
+  [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCxmsySbe12LYAMnIzT9wCJA?style=for-the-badge&logo=youtube&label=YouTube&labelColor=red&color=grey)](https://www.youtube.com/@KenzelKD) 
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kenzelkdsouza@gmail.com)
+</div>
