@@ -18,7 +18,7 @@ I am a **Skilled Game Developer** with **Experience** in **Unity, Unreal Engine 
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://www.sololearn.com/Certificate/CT-5RVYYRAN/jpg)
 [![C](https://img.shields.io/badge/C-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=00599C)](https://www.sololearn.com/en/certificates/CT-TURS22C1)
 
-## Experience
+## Experience [🔝](#skills)
 
 ### Learn with One | Game Developer
 **(+6 Months)** Jan 2024 - Current
@@ -30,7 +30,7 @@ I am a **Skilled Game Developer** with **Experience** in **Unity, Unreal Engine 
 - Trained 10+ New Recruits in Unreal Engine 5 and Blender.
 - Built up the Version Control Infrastructure.
 
-## Projects
+## Projects[🔝](#skills)
 
 ### Unity
 - C#, Game Design, Game Mechanics, 3D Animation
