@@ -58,7 +58,7 @@ I am a **Skilled Game Developer** with **Experience** in **Unity, Unreal Engine 
 
 ---
 <div align="center">
-  <h3 href = https://github.com/KenzKD#intro>Back to Top 🔝</h3>
+  <h3>Back to Top <a href = https://github.com/KenzKD#intro>🔝</a></h3>
   
   [![Link Tree Alternative](https://img.shields.io/badge/Link_Tree-purple?style=for-the-badge&logo=linktree&color=a100ff)](https://linktr.ee/KenzelKD)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-074c91?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kenzelkd/) 
