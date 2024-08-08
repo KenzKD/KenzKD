@@ -1,3 +1,10 @@
+
+<div align="center">
+  <h3><a href = https://github.com/KenzKD>Return to Resume &#8617;</a></h3>
+</div>
+
+---
+
 # Index
 
 [![Unity](https://img.shields.io/badge/unity-white.svg?style=for-the-badge&logo=unity&logoColor=black)](#unity-reel)
@@ -128,6 +135,7 @@
 
 [3D Compositing.webm](https://github.com/user-attachments/assets/1a8bb81b-b197-481f-926f-1a562c4f27f4)
 
-
 ---
-[Return to Resume](https://github.com/KenzKD)
+<div align="center">
+  <h3><a href = https://github.com/KenzKD>Return to Resume &#8617;</a></h3>
+</div>
