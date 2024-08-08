@@ -34,32 +34,32 @@ I am a **Skilled Game Developer** with **Experience** in **Unity, Unreal Engine 
 ## Projects[🔝](#intro)
 
 ### Unity
-[Unity Reel](https://docs.google.com/presentation/d/1pFsYDFRGXi_IweLAtwN8sZRqx1JaddyiYzQz3FwoxqE/edit#slide=id.g2ad8d534cb9_0_55)<br>
+[Unity Reel](/Reel/README.md#unity-reel)<br>
 [Unity Youtube Playlist](https://www.youtube.com/playlist?list=PLWyR-1xh1zpex-6VUxNW0o3N9neaLrHPl)
 - C#, Game Design, Game Mechanics, 3D Animation
 
 ### Unreal Engine 5
-[Unreal Reel](https://docs.google.com/presentation/d/1pFsYDFRGXi_IweLAtwN8sZRqx1JaddyiYzQz3FwoxqE/edit#slide=id.g2ad8d534cb9_0_50)<br>
-[Unreal Youtube Playlist](https://www.youtube.com/playlist?list=PLWyR-1xh1zpcBDHSosgeYlWRPeh6wekxz)
+[Unreal Engine 5 Reel](/Reel/README.md#unreal-engine-5-reel)<br>
+[Unreal Engine 5 Youtube Playlist](https://www.youtube.com/playlist?list=PLWyR-1xh1zpcBDHSosgeYlWRPeh6wekxz)
 - Level design, Visual Scripting, Sound Design, Ray Tracing
 
 ### Blender
-[Blender Reel](https://docs.google.com/presentation/d/1pFsYDFRGXi_IweLAtwN8sZRqx1JaddyiYzQz3FwoxqE/edit#slide=id.g2ad8d534cb9_0_45)<br>
+[Blender Reel](/Reel/README.md#blender-reel)<br>
 [Blender Youtube Playlist](https://www.youtube.com/playlist?list=PLWyR-1xh1zpdoqYQfMFYUYD5LFE8gjyZg)
 - 3D Modelling, Sculpting, Animation, Simulations, Texturing
 
 ### Houdini
-[Houdini Reel](https://docs.google.com/presentation/d/1pFsYDFRGXi_IweLAtwN8sZRqx1JaddyiYzQz3FwoxqE/edit#slide=id.g2ad8d534cb9_0_78)<br>
+[Houdini Reel](/Reel/README.md#houdini-reel)<br>
 [Houdini Youtube Playlist](https://www.youtube.com/playlist?list=PLWyR-1xh1zpf9PalLGCn8OzZm0iKgDDeK)
 -  Snow Simulation, Hair Simulation, Liquid Simulation, Particle Simulation
 
 ### Nvidia Omniverse
-[Nvidia Omniverse Reel](https://docs.google.com/presentation/d/1pFsYDFRGXi_IweLAtwN8sZRqx1JaddyiYzQz3FwoxqE/edit#slide=id.g2ad8d534cb9_0_60)<br>
+[Nvidia Omniverse Reel](/Reel/README.md#nvidia-omniverse-reel)<br>
 [Nvidia Youtube Playlist](https://www.youtube.com/playlist?list=PLWyR-1xh1zpe9lPYcw6xWT5POeFJT_qcM)
 -  Rigid Body Simulation, Soft body Simulation, Cloth Simulation
 
 ### DaVinci Resolve
-[DaVinci Reslove Reel](https://docs.google.com/presentation/d/1pFsYDFRGXi_IweLAtwN8sZRqx1JaddyiYzQz3FwoxqE/edit#slide=id.g2ad8d534cb9_0_106)<br>
+[DaVinci Reslove Reel](/Reel/README.md#davinci-resolve-reel)<br>
 [DaVinci Resolve Youtube Playlist](https://www.youtube.com/playlist?list=PLWyR-1xh1zpd9iiJJIzxKAUfMu-kl9ptC)
 - Color Grading, Sound & Visual Effects, Transitions, UI & UX
 
