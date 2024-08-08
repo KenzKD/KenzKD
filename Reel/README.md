@@ -1,24 +1,14 @@
 # Unity Reel
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-# Unreal Engine 5 Reel
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-# Blender Reel
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-# Houdini Reel
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-# Nvidia Omniverse Reel
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-# DaVinci Resolve Reel
+# Unreal Engine 5 Reel [🔝](#unity-reel)
 
-[🔝](#unity-reel)
+# Blender Reel [🔝](#unity-reel)
 
-[🔝](#unreal-engine-reel)
+# Houdini Reel [🔝](#unity-reel)
 
-[🔝](#blender-reel)
+# Nvidia Omniverse Reel [🔝](#unity-reel)
 
-[🔝](#houdini-reel)
+# DaVinci Resolve Reel [🔝](#unity-reel)
 
-[🔝](#nvidia-omniverse-reel)
 
-[🔝](#davinci-resolve-reel)
+[Return to Resume](https://github.com/KenzKD)
