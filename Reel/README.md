@@ -1,21 +1,22 @@
 
 <div align="center">
   <h3><a href = https://github.com/KenzKD>Return to Resume &#8617;</a></h3>
-</div>
+
 
 ---
 
-# Index
+  <h1 id="index">Index</h1>
+  <p>
+    <a href="#unity-reel"><img src="https://img.shields.io/badge/unity-white.svg?style=for-the-badge&amp;logo=unity&amp;logoColor=black" alt="Unity"></a>
+    <a href="#unreal-engine-5-reel"><img src="https://img.shields.io/badge/unreal_engine-%23313131.svg?style=for-the-badge&amp;logo=unrealengine&amp;logoColor=white" alt="Unreal Engine"></a>
+    <a href="#blender-reel"><img src="https://img.shields.io/badge/blender-%23E87D0D.svg?style=for-the-badge&amp;logo=blender&amp;logoColor=white" alt="Blender"></a>
+    <a href="#houdini-reel"><img src="https://img.shields.io/badge/Houdini-%23FF4713?style=for-the-badge&amp;logo=houdini&amp;logoColor=white" alt="Houdini"></a>
+    <a href="#nvidia-omniverse-reel"><img src="https://img.shields.io/badge/NVIDIA_Omniverse-%2376B900.svg?style=for-the-badge&amp;logo=nVIDIA&amp;logoColor=white" alt="NVIDIA Omniverse"></a>
+    <a href="#davinci-resolve-reel"><img src="https://img.shields.io/badge/DaVinci%20Resolve-%23233A51?style=for-the-badge&amp;logo=davinciresolve" alt="DaVinci Resolve"></a>
+  </p>
 
-[![Unity](https://img.shields.io/badge/unity-white.svg?style=for-the-badge&logo=unity&logoColor=black)](#unity-reel)
-[![Unreal Engine](https://img.shields.io/badge/unreal_engine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)](#unreal-engine-5-reel)
-[![Blender](https://img.shields.io/badge/blender-%23E87D0D.svg?style=for-the-badge&logo=blender&logoColor=white)](#blender-reel)
-[![Houdini](https://img.shields.io/badge/Houdini-%23FF4713?style=for-the-badge&logo=houdini&logoColor=white)](#houdini-reel)
-[![NVIDIA Omniverse](https://img.shields.io/badge/NVIDIA_Omniverse-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)](#nvidia-omniverse-reel)
-[![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-%23233A51?style=for-the-badge&logo=davinciresolve)](#davinci-resolve-reel)
 
-
-# Unity Reel[🔝](#index)
+<h1 id="unity-reel-index-">Unity Reel<a href="#index">🔝</a></h1>
 
 [Unity Ar Image Tracker For Spatial.webm](https://github.com/user-attachments/assets/99639aa4-07f3-4114-994d-c05e7184e1dc)
 
@@ -49,7 +50,7 @@
 
 
 
-# Unreal Engine 5 Reel[🔝](#index)
+<h1 id="unreal-engine-5-reel-index-">Unreal Engine 5 Reel<a href="#index">🔝</a></h1>
 
 [Waterfall Trim 480p 53cq.webm](https://github.com/user-attachments/assets/705eb10f-56da-4cde-bff6-5a2c788d28c2)
 
@@ -60,7 +61,7 @@
 [A2f Testing.webm](https://github.com/user-attachments/assets/cb435cb1-0d14-4be4-a0d6-c2862fe7e980)
 
 
-# Blender Reel[🔝](#index)
+<h1 id="blender-reel-index-">Blender Reel<a href="#index">🔝</a></h1>
 
 [Voxel Liquid Sim.webm](https://github.com/user-attachments/assets/812a2745-cef6-49c6-b06d-e83238e0c9ff)
 
@@ -89,7 +90,7 @@
 [Cool Grass.webm](https://github.com/user-attachments/assets/4c5a39bc-eeca-4550-a720-e77ac60ea4c4)
 
 
-# Houdini Reel[🔝](#index)
+<h1 id="houdini-reel-index-">Houdini Reel<a href="#index">🔝</a></h1>
 
 [Houdini Snow Fall Long.webm](https://github.com/user-attachments/assets/1df88e11-a0c8-43d8-9e45-697bc84fee19)
 
@@ -100,7 +101,7 @@
 [Houdini Donut Denoised In Blender.webm](https://github.com/user-attachments/assets/12363ec1-d676-4f01-96cb-917ce72f910b)
 
 
-# Nvidia Omniverse Reel[🔝](#index)
+<h1 id="nvidia-omniverse-reel-index-">Nvidia Omniverse Reel<a href="#index">🔝</a></h1>
 
 [Trying Particles Part 2.webm](https://github.com/user-attachments/assets/06f5503a-a3c3-484b-aec9-e43de473de04)
 
@@ -115,7 +116,7 @@
 [Character Transfer And Action Graph.webm](https://github.com/user-attachments/assets/7fcf6b06-c16a-4eee-bd23-475804c4ea08)
 
 
-# DaVinci Resolve Reel[🔝](#index)
+<h1 id="davinci-resolve-reel-index-">DaVinci Resolve Reel<a href="#index">🔝</a></h1>
 
 [Motion Graphics In Fusion.webm](https://github.com/user-attachments/assets/b3d902fe-1675-41d8-acf2-7f85767a9cd8)
 
@@ -136,6 +137,6 @@
 [3D Compositing.webm](https://github.com/user-attachments/assets/1a8bb81b-b197-481f-926f-1a562c4f27f4)
 
 ---
-<div align="center">
+
   <h3><a href = https://github.com/KenzKD>Return to Resume &#8617;</a></h3>
 </div>
