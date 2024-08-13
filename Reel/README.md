@@ -17,7 +17,7 @@
 <details>
   <summary><h1 id="unity-reel-index-">Unity Reel<a href="#index">🔝</a></h1></summary>
 
-  <p><a href="https://github.com/user-attachments/assets/99639aa4-07f3-4114-994d-c05e7184e1dc">Unity_Ar_Image_Tracker_For_Spatial</a></p>
+  <p><a href="https://github.com/user-attachments/assets/99639aa4-07f3-4114-994d-c05e7184e1dc">Unity Ar Image Tracker For Spatial</a></p>
   <p><a href="https://github.com/user-attachments/assets/7a74882e-d533-4418-bdc0-9b578b86e108">Tester Gameplay</a></p>
   <p><a href="https://github.com/user-attachments/assets/2ef42573-81c7-4e12-a6b7-18985eed14c3">Refresher Gameplay Trimmed</a></p>
   <p><a href="https://github.com/user-attachments/assets/672e766f-f04e-4b23-addb-460c3ef7c0a2">Grid Game</a></p>
