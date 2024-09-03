@@ -32,6 +32,8 @@
   <p><a href="https://github.com/user-attachments/assets/36878342-d80d-4da9-89e4-95f71c6c2987">Grade 7 Chapter 9 Unity Reel</a></p>
   <p><a href="https://github.com/user-attachments/assets/ea354bef-604b-4805-940c-c35fead6b8f8">Grade 7 Chapter 4 Unity Reel</a></p>
   <p><a href="https://github.com/user-attachments/assets/935a1867-c6b7-49aa-b5a4-5a69bca116e9">Grade 7 Chapter 1 Unity Reel</a></p>
+  <p><a href="https://github.com/user-attachments/assets/4143b036-9bc1-49e4-8697-2a422d5c4812">Grade 7 Chapter 13 Unity Reel</a></p>
+  <p><a href="https://github.com/user-attachments/assets/552c3fab-e6a5-4818-8cef-344563b402de">Grade 7 Chapter 6 Unity Reel</a></p>
 </details>
 
 <details>
