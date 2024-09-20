@@ -22,8 +22,8 @@ I am a **Skilled Game Developer** with **Experience** in **Unity, Unreal Engine 
 ## Experience [🔝](#intro)
 
 ### Learn with One | Game Developer
-**(+6 Months)** Jan 2024 - Current
-- Created **70+** Games with **Unity**
+**(9 Months)** Jan 2024 - Sept 2024
+- Created **80+** Games with **Unity**
 - Built a **Template Unity Project**, used by Other **Teammates**
 
 ### MIT Gaming Club | Game Development Head
