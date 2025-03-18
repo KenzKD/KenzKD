@@ -5,6 +5,7 @@
 <hr>
 
   <h1 id="index">Index</h1>
+  
   <p>
     <a href="#unity-reel"><img src="https://img.shields.io/badge/unity-white.svg?style=for-the-badge&amp;logo=unity&amp;logoColor=black" alt="Unity"></a>
     <a href="#unreal-engine-5-reel"><img src="https://img.shields.io/badge/unreal_engine-%23313131.svg?style=for-the-badge&amp;logo=unrealengine&amp;logoColor=white" alt="Unreal Engine"></a>
@@ -13,10 +14,11 @@
     <a href="#nvidia-omniverse-reel"><img src="https://img.shields.io/badge/NVIDIA_Omniverse-%2376B900.svg?style=for-the-badge&amp;logo=nVIDIA&amp;logoColor=white" alt="NVIDIA Omniverse"></a>
     <a href="#davinci-resolve-reel"><img src="https://img.shields.io/badge/DaVinci%20Resolve-%23233A51?style=for-the-badge&amp;logo=davinciresolve" alt="DaVinci Resolve"></a>
   </p>
-
+  
+###### (Best viewed in a Chromium-based browser.)
 <details>
   <summary><h1 id="unity-reel-index-">Unity Reel<a href="#index">🔝</a></h1></summary>
-
+  
   <p><a href="https://github.com/user-attachments/assets/99639aa4-07f3-4114-994d-c05e7184e1dc">Unity Ar Image Tracker For Spatial</a></p>
   <p><a href="https://github.com/user-attachments/assets/7a74882e-d533-4418-bdc0-9b578b86e108">Tester Gameplay</a></p>
   <p><a href="https://github.com/user-attachments/assets/2ef42573-81c7-4e12-a6b7-18985eed14c3">Refresher Gameplay Trimmed</a></p>
