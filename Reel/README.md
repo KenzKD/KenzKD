@@ -11,8 +11,8 @@
     <a href="#unreal-engine-5-reel"><img src="https://img.shields.io/badge/unreal_engine-%23313131.svg?style=for-the-badge&amp;logo=unrealengine&amp;logoColor=white" alt="Unreal Engine"></a>
     <a href="#blender-reel"><img src="https://img.shields.io/badge/blender-%23E87D0D.svg?style=for-the-badge&amp;logo=blender&amp;logoColor=white" alt="Blender"></a>
     <a href="#houdini-reel"><img src="https://img.shields.io/badge/Houdini-%23FF4713?style=for-the-badge&amp;logo=houdini&amp;logoColor=white" alt="Houdini"></a>
-    <a href="#nvidia-omniverse-reel"><img src="https://img.shields.io/badge/NVIDIA_Omniverse-%2376B900.svg?style=for-the-badge&amp;logo=nVIDIA&amp;logoColor=white" alt="NVIDIA Omniverse"></a>
     <a href="#davinci-resolve-reel"><img src="https://img.shields.io/badge/DaVinci%20Resolve-%23233A51?style=for-the-badge&amp;logo=davinciresolve" alt="DaVinci Resolve"></a>
+    <a href="#nvidia-omniverse-reel"><img src="https://img.shields.io/badge/NVIDIA_Omniverse-%2376B900.svg?style=for-the-badge&amp;logo=nVIDIA&amp;logoColor=white" alt="NVIDIA Omniverse"></a>
   </p>
   
 ###### (Best viewed in a Chromium-based browser.)
@@ -76,17 +76,6 @@
 </details>
 
 <details>
-  <summary><h1 id="nvidia-omniverse-reel-index-">Nvidia Omniverse Reel<a href="#index">🔝</a></h1></summary>
-
-  <p><a href="https://github.com/user-attachments/assets/06f5503a-a3c3-484b-aec9-e43de473de04">Trying Particles Part 2</a></p>
-  <p><a href="https://github.com/user-attachments/assets/5c350706-0994-4cfe-a772-14300fda3a4d">Trying Particles Part 1</a></p>
-  <p><a href="https://github.com/user-attachments/assets/5aa4221d-660c-402f-b89c-e1c648b82f84">Nvidia Omniverse Particles Full</a></p>
-  <p><a href="https://github.com/user-attachments/assets/52933711-f348-4154-b4ce-1f9913ed777b">Create Testing</a></p>
-  <p><a href="https://github.com/user-attachments/assets/cb7f272e-9f64-4d14-8065-a294c209c120">Cloth Sim</a></p>
-  <p><a href="https://github.com/user-attachments/assets/7fcf6b06-c16a-4eee-bd23-475804c4ea08">Character Transfer And Action Graph</a></p>
-</details>
-
-<details>
   <summary><h1 id="davinci-resolve-reel-index-">DaVinci Resolve Reel<a href="#index">🔝</a></h1></summary>
 
   <p><a href="https://github.com/user-attachments/assets/b3d902fe-1675-41d8-acf2-7f85767a9cd8">Motion Graphics In Fusion</a></p>
@@ -98,6 +87,17 @@
   <p><a href="https://github.com/user-attachments/assets/dd8d2633-97da-4233-bbed-7d33760baacb">Advanced Colors</a></p>
   <p><a href="https://github.com/user-attachments/assets/54daa189-d11d-4757-a5eb-50fefdcb455b">3D Keyer</a></p>
   <p><a href="https://github.com/user-attachments/assets/1a8bb81b-b197-481f-926f-1a562c4f27f4">3D Compositing</a></p>
+</details>
+
+<details>
+  <summary><h1 id="nvidia-omniverse-reel-index-">Nvidia Omniverse Reel<a href="#index">🔝</a></h1></summary>
+
+  <p><a href="https://github.com/user-attachments/assets/06f5503a-a3c3-484b-aec9-e43de473de04">Trying Particles Part 2</a></p>
+  <p><a href="https://github.com/user-attachments/assets/5c350706-0994-4cfe-a772-14300fda3a4d">Trying Particles Part 1</a></p>
+  <p><a href="https://github.com/user-attachments/assets/5aa4221d-660c-402f-b89c-e1c648b82f84">Nvidia Omniverse Particles Full</a></p>
+  <p><a href="https://github.com/user-attachments/assets/52933711-f348-4154-b4ce-1f9913ed777b">Create Testing</a></p>
+  <p><a href="https://github.com/user-attachments/assets/cb7f272e-9f64-4d14-8065-a294c209c120">Cloth Sim</a></p>
+  <p><a href="https://github.com/user-attachments/assets/7fcf6b06-c16a-4eee-bd23-475804c4ea08">Character Transfer And Action Graph</a></p>
 </details>
 
 <hr>
