@@ -12,8 +12,9 @@ I am a **Skilled Game Developer** with **Experience** in **Unity, Unreal Engine 
 [![Unreal Engine](https://img.shields.io/badge/unreal_engine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)](https://docs.google.com/presentation/d/1pFsYDFRGXi_IweLAtwN8sZRqx1JaddyiYzQz3FwoxqE/edit#slide=id.g2ad8d534cb9_0_50)
 [![Blender](https://img.shields.io/badge/blender-%23E87D0D.svg?style=for-the-badge&logo=blender&logoColor=white)](https://docs.google.com/presentation/d/1pFsYDFRGXi_IweLAtwN8sZRqx1JaddyiYzQz3FwoxqE/edit#slide=id.g2ad8d534cb9_0_45)
 [![Houdini](https://img.shields.io/badge/Houdini-%23FF4713?style=for-the-badge&logo=houdini&logoColor=white)](https://docs.google.com/presentation/d/1pFsYDFRGXi_IweLAtwN8sZRqx1JaddyiYzQz3FwoxqE/edit#slide=id.g2ad8d534cb9_0_78)
-[![NVIDIA Omniverse](https://img.shields.io/badge/NVIDIA_Omniverse-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)](https://docs.google.com/presentation/d/1pFsYDFRGXi_IweLAtwN8sZRqx1JaddyiYzQz3FwoxqE/edit#slide=id.g2ad8d534cb9_0_60)
 [![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-%23233A51?style=for-the-badge&logo=davinciresolve)](https://docs.google.com/presentation/d/1pFsYDFRGXi_IweLAtwN8sZRqx1JaddyiYzQz3FwoxqE/edit#slide=id.g2ad8d534cb9_0_106)
+[![NVIDIA Omniverse](https://img.shields.io/badge/NVIDIA_Omniverse-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)](https://docs.google.com/presentation/d/1pFsYDFRGXi_IweLAtwN8sZRqx1JaddyiYzQz3FwoxqE/edit#slide=id.g2ad8d534cb9_0_60)
+
 <!--### Languages-->
 [![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)](https://www.sololearn.com/Certificate/CT-OY0XST1U/jpg)
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://www.sololearn.com/Certificate/CT-5RVYYRAN/jpg)
@@ -33,35 +34,35 @@ I am a **Skilled Game Developer** with **Experience** in **Unity, Unreal Engine 
 
 ## Projects[🔝](#intro)
 
-### Unity
+### Unity (90+ Games)
 [Unity Reel](/Reel/README.md#unity-reel)<br>
 [Unity Youtube Playlist](https://www.youtube.com/playlist?list=PLWyR-1xh1zpex-6VUxNW0o3N9neaLrHPl)
 - C#, Game Design, Game Mechanics, 3D Animation
 
-### Unreal Engine 5
+### Unreal Engine 5 (5+ Games)
 [Unreal Engine 5 Reel](/Reel/README.md#unreal-engine-5-reel)<br>
 [Unreal Engine 5 Youtube Playlist](https://www.youtube.com/playlist?list=PLWyR-1xh1zpcBDHSosgeYlWRPeh6wekxz)
 - Level design, Visual Scripting, Sound Design, Ray Tracing
 
-### Blender
+### Blender (10+ Projects)
 [Blender Reel](/Reel/README.md#blender-reel)<br>
 [Blender Youtube Playlist](https://www.youtube.com/playlist?list=PLWyR-1xh1zpdoqYQfMFYUYD5LFE8gjyZg)
 - 3D Modelling, Sculpting, Animation, Simulations, Texturing
 
-### Houdini
+### Houdini (4 Projects)
 [Houdini Reel](/Reel/README.md#houdini-reel)<br>
 [Houdini Youtube Playlist](https://www.youtube.com/playlist?list=PLWyR-1xh1zpf9PalLGCn8OzZm0iKgDDeK)
 -  Snow Simulation, Hair Simulation, Liquid Simulation, Particle Simulation
 
-### Nvidia Omniverse
-[Nvidia Omniverse Reel](/Reel/README.md#nvidia-omniverse-reel)<br>
-[Nvidia Youtube Playlist](https://www.youtube.com/playlist?list=PLWyR-1xh1zpe9lPYcw6xWT5POeFJT_qcM)
--  Rigid Body Simulation, Soft body Simulation, Cloth Simulation
-
-### DaVinci Resolve
+### DaVinci Resolve (20+ Videos)
 [DaVinci Reslove Reel](/Reel/README.md#davinci-resolve-reel)<br>
 [DaVinci Resolve Youtube Playlist](https://www.youtube.com/playlist?list=PLWyR-1xh1zpd9iiJJIzxKAUfMu-kl9ptC)
 - Color Grading, Sound & Visual Effects, Transitions, UI & UX
+
+### Nvidia Omniverse (4 Projects)
+[Nvidia Omniverse Reel](/Reel/README.md#nvidia-omniverse-reel)<br>
+[Nvidia Youtube Playlist](https://www.youtube.com/playlist?list=PLWyR-1xh1zpe9lPYcw6xWT5POeFJT_qcM)
+-  Rigid Body Simulation, Soft body Simulation, Cloth Simulation
 
 ## Education[🔝](#intro)
 
