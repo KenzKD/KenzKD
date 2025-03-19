@@ -22,6 +22,12 @@ I am a **Skilled Game Developer** with **Experience** in **Unity, Unreal Engine 
 
 ## Experience [🔝](#intro)
 
+### Mind Spirit Design | Game Developer
+**(+6 Months)** (Sept 2024 - Current)
+- Created Engaging Experiences with Unity and Unreal Engine 5 for Innovative Hardware Integrations.
+- Provided technical support at GITEX, IDEX, Arab Health, Gulfood, FOREX, GWF, etc.
+- Designed motion graphics using Unreal Engine 5 for enhanced visual impact.
+
 ### Learn with One | Game Developer
 **(9 Months)** Jan 2024 - Sept 2024
 - Created **80+** Games with **Unity**
