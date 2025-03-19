@@ -38,7 +38,7 @@ I am a **Skilled Game Developer** with **Experience** in **Unity, Unreal Engine 
 - Trained 10+ New Recruits in Unreal Engine 5 and Blender.
 - Set up and Managed the Perforce Version Control Infrastructure.
 
-## Projects[🔝](#intro)
+## Projects[🔝](https://github.com/KenzKD)
 
 ### Unity (90+ Games)
 [Unity Reel](https://docs.google.com/presentation/d/1pFsYDFRGXi_IweLAtwN8sZRqx1JaddyiYzQz3FwoxqE/present#slide=id.g2ad8d534cb9_0_55)<br>
