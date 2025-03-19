@@ -5,7 +5,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kenzelkdsouza@gmail.com)
 
 <!--About Me-->
-I am a **Skilled Game Developer** with **Experience** in **Unity, Unreal Engine 5, Blender, Houdini, Nvidia Omniverse, C#, C++ and C.**
+I am a **Skilled Game Developer** with **Experience** in **Unity, Unreal Engine 5, Blender, Houdini, DaVinci Resolve, Nvidia Omniverse, C#, C++ and C.**
 
 ## Skills [🔝](#intro)
 [![Unity](https://img.shields.io/badge/unity-white.svg?style=for-the-badge&logo=unity&logoColor=black)](https://docs.google.com/presentation/d/1pFsYDFRGXi_IweLAtwN8sZRqx1JaddyiYzQz3FwoxqE/present#slide=id.g2ad8d534cb9_0_55)
