@@ -84,3 +84,5 @@ I am a **Skilled Game Developer** with **Experience** in **Unity, Unreal Engine 
   [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCxmsySbe12LYAMnIzT9wCJA?style=for-the-badge&logo=youtube&label=YouTube&labelColor=red&color=grey)](https://www.youtube.com/@KenzelKD) 
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kenzelkdsouza@gmail.com)
 </div>
+
+<!--![Profile Picture v2(Small)](https://github.com/user-attachments/assets/f1e7d059-b4e1-4f10-a889-958c78671c6b)-->
