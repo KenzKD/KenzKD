@@ -5,20 +5,21 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kenzelkdsouza@gmail.com)
 
 <!--About Me-->
-I am a **Skilled Game Developer** with **Experience** in **Unity, Unreal Engine 5, Blender, Houdini, DaVinci Resolve, Nvidia Omniverse, C#, C++ and C.**
+I am a **Skilled Game Developer** with **Experience** in **Unity, Unreal Engine 5, Blender, Houdini, DaVinci Resolve, Nvidia Omniverse, C#, C++, C and Python**
 
 ## Skills [🔝](#intro)
-[![Unity](https://img.shields.io/badge/unity-white.svg?style=for-the-badge&logo=unity&logoColor=black)](https://docs.google.com/presentation/d/1pFsYDFRGXi_IweLAtwN8sZRqx1JaddyiYzQz3FwoxqE/present#slide=id.g2ad8d534cb9_0_55)
-[![Unreal Engine](https://img.shields.io/badge/unreal_engine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)](https://docs.google.com/presentation/d/1pFsYDFRGXi_IweLAtwN8sZRqx1JaddyiYzQz3FwoxqE/present#slide=id.g2ad8d534cb9_0_50)
-[![Blender](https://img.shields.io/badge/blender-%23E87D0D.svg?style=for-the-badge&logo=blender&logoColor=white)](https://docs.google.com/presentation/d/1pFsYDFRGXi_IweLAtwN8sZRqx1JaddyiYzQz3FwoxqE/present#slide=id.g2ad8d534cb9_0_45)
-[![Houdini](https://img.shields.io/badge/Houdini-%23FF4713?style=for-the-badge&logo=houdini&logoColor=white)](https://docs.google.com/presentation/d/1pFsYDFRGXi_IweLAtwN8sZRqx1JaddyiYzQz3FwoxqE/present#slide=id.g2ad8d534cb9_0_78)
-[![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-%23233A51?style=for-the-badge&logo=davinciresolve)](https://docs.google.com/presentation/d/1pFsYDFRGXi_IweLAtwN8sZRqx1JaddyiYzQz3FwoxqE/present#slide=id.g2ad8d534cb9_0_106)
-[![NVIDIA Omniverse](https://img.shields.io/badge/NVIDIA_Omniverse-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)](https://docs.google.com/presentation/d/1pFsYDFRGXi_IweLAtwN8sZRqx1JaddyiYzQz3FwoxqE/present#slide=id.g2ad8d534cb9_0_60)
+[![Unity](https://img.shields.io/badge/unity-white.svg?style=for-the-badge&logo=unity&logoColor=black)](https://kenzkd.github.io/?toggle=unity)
+[![Unreal Engine](https://img.shields.io/badge/unreal_engine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)](https://kenzkd.github.io/?toggle=unreal)
+[![Blender](https://img.shields.io/badge/blender-%23E87D0D.svg?style=for-the-badge&logo=blender&logoColor=white)](https://kenzkd.github.io/?toggle=blender)
+[![Houdini](https://img.shields.io/badge/Houdini-%23FF4713?style=for-the-badge&logo=houdini&logoColor=white)](https://kenzkd.github.io/?toggle=houdini)
+[![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-%23233A51?style=for-the-badge&logo=davinciresolve)](https://kenzkd.github.io/?toggle=davinci)
+[![NVIDIA Omniverse](https://img.shields.io/badge/NVIDIA_Omniverse-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)](https://kenzkd.github.io/?toggle=omniverse)
 
 <!--### Languages-->
 [![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)](https://www.sololearn.com/Certificate/CT-OY0XST1U/jpg)
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://www.sololearn.com/Certificate/CT-5RVYYRAN/jpg)
 [![C](https://img.shields.io/badge/C-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=00599C)](https://www.sololearn.com/en/certificates/CT-TURS22C1)
+[![Python](https://img.shields.io/badge/Python-%23FFE46A.svg?style=for-the-badge&logo=Python&logoColor=3571a5)](https://www.sololearn.com/Certificate/CT-SF1ZUALL/jpg)
 
 ## Experience [🔝](#intro)
 
@@ -41,33 +42,27 @@ I am a **Skilled Game Developer** with **Experience** in **Unity, Unreal Engine 
 ## Projects[🔝](#intro)
 
 ### Unity (90+ Games)
-[Unity Reel](https://docs.google.com/presentation/d/1pFsYDFRGXi_IweLAtwN8sZRqx1JaddyiYzQz3FwoxqE/present#slide=id.g2ad8d534cb9_0_55)<br>
-[Unity Youtube Playlist](https://www.youtube.com/playlist?list=PLWyR-1xh1zpex-6VUxNW0o3N9neaLrHPl)
+[Unity Reel](https://kenzkd.github.io/?toggle=unity)
 - C#, Game Design, Game Mechanics, 3D Animation
 
 ### Unreal Engine 5 (5+ Games)
-[Unreal Engine 5 Reel](https://docs.google.com/presentation/d/1pFsYDFRGXi_IweLAtwN8sZRqx1JaddyiYzQz3FwoxqE/present#slide=id.g2ad8d534cb9_0_50)<br>
-[Unreal Engine 5 Youtube Playlist](https://www.youtube.com/playlist?list=PLWyR-1xh1zpcBDHSosgeYlWRPeh6wekxz)
+[Unreal Engine 5 Reel](https://kenzkd.github.io/?toggle=unreal)
 - Level design, Visual Scripting, Sound Design, Ray Tracing
 
 ### Blender (10+ Projects)
-[Blender Reel](https://docs.google.com/presentation/d/1pFsYDFRGXi_IweLAtwN8sZRqx1JaddyiYzQz3FwoxqE/present#slide=id.g2ad8d534cb9_0_45)<br>
-[Blender Youtube Playlist](https://www.youtube.com/playlist?list=PLWyR-1xh1zpdoqYQfMFYUYD5LFE8gjyZg)
+[Blender Reel](https://kenzkd.github.io/?toggle=blender)
 - 3D Modelling, Sculpting, Animation, Simulations, Texturing
 
 ### Houdini (4 Projects)
-[Houdini Reel](https://docs.google.com/presentation/d/1pFsYDFRGXi_IweLAtwN8sZRqx1JaddyiYzQz3FwoxqE/present#slide=id.g2ad8d534cb9_0_78)<br>
-[Houdini Youtube Playlist](https://www.youtube.com/playlist?list=PLWyR-1xh1zpf9PalLGCn8OzZm0iKgDDeK)
+[Houdini Reel](https://kenzkd.github.io/?toggle=houdini)
 -  Snow Simulation, Hair Simulation, Liquid Simulation, Particle Simulation
 
 ### DaVinci Resolve (20+ Videos)
-[DaVinci Reslove Reel](https://docs.google.com/presentation/d/1pFsYDFRGXi_IweLAtwN8sZRqx1JaddyiYzQz3FwoxqE/present#slide=id.g2ad8d534cb9_0_106)<br>
-[DaVinci Resolve Youtube Playlist](https://www.youtube.com/playlist?list=PLWyR-1xh1zpd9iiJJIzxKAUfMu-kl9ptC)
+[DaVinci Reslove Reel](https://kenzkd.github.io/?toggle=davinci)
 - Color Grading, Sound & Visual Effects, Transitions, UI & UX
 
 ### Nvidia Omniverse (4 Projects)
-[Nvidia Omniverse Reel](https://docs.google.com/presentation/d/1pFsYDFRGXi_IweLAtwN8sZRqx1JaddyiYzQz3FwoxqE/present#slide=id.g2ad8d534cb9_0_60)<br>
-[Nvidia Youtube Playlist](https://www.youtube.com/playlist?list=PLWyR-1xh1zpe9lPYcw6xWT5POeFJT_qcM)
+[Nvidia Omniverse Reel](https://kenzkd.github.io/?toggle=omniverse)
 -  Rigid Body Simulation, Soft body Simulation, Cloth Simulation
 
 ## Education[🔝](#intro)
