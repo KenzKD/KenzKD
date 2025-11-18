@@ -1,6 +1,8 @@
 <a id="Intro"></a>
 <!--[![Link Tree Alternative](https://img.shields.io/badge/Link_Tree-purple?style=for-the-badge&logo=linktree&color=a100ff)](https://linktr.ee/KenzelKD)-->
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-3f66bf?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/kenzelkd/)
+<!--[![LinkedIn](https://custom-icon-badges.demolab.com/badge/Portfolio-a100ff?style=for-the-badge&logo=kenzel_portfolio)](https://kenzkd.github.io/)-->
+[![LinkedIn](https://img.shields.io/badge/Portfolio-a100ff?style=for-the-badge)](https://kenzkd.github.io/)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-3f66bf?style=for-the-badge&logo=linkedin-white)](https://www.linkedin.com/in/kenzelkd/)
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCxmsySbe12LYAMnIzT9wCJA?style=for-the-badge&logo=youtube&label=YouTube&labelColor=red&color=grey)](https://www.youtube.com/@KenzelKD) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kenzelkdsouza@gmail.com)
 
@@ -78,7 +80,7 @@ I am a **Skilled Game Developer** with **Extensive Experience**, having created 
 <div align="center">
   <h3><a href = https://github.com/KenzKD#intro>Back to Top 🔝</a></h3>
   
-  <!--[![Link Tree Alternative](https://img.shields.io/badge/Link_Tree-purple?style=for-the-badge&logo=linktree&color=a100ff)](https://linktr.ee/KenzelKD)-->
+  [![LinkedIn](https://img.shields.io/badge/Portfolio-a100ff?style=for-the-badge)](https://kenzkd.github.io/)
   [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-3f66bf?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/kenzelkd/)
   [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCxmsySbe12LYAMnIzT9wCJA?style=for-the-badge&logo=youtube&label=YouTube&labelColor=red&color=grey)](https://www.youtube.com/@KenzelKD) 
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kenzelkdsouza@gmail.com)
