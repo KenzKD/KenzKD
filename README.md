@@ -1,5 +1,5 @@
 <a id="Intro"></a>
-[![Link Tree Alternative](https://img.shields.io/badge/Link_Tree-purple?style=for-the-badge&logo=linktree&color=a100ff)](https://linktr.ee/KenzelKD)
+<!--[![Link Tree Alternative](https://img.shields.io/badge/Link_Tree-purple?style=for-the-badge&logo=linktree&color=a100ff)](https://linktr.ee/KenzelKD)-->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-074c91?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kenzelkd/) 
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCxmsySbe12LYAMnIzT9wCJA?style=for-the-badge&logo=youtube&label=YouTube&labelColor=red&color=grey)](https://www.youtube.com/@KenzelKD) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kenzelkdsouza@gmail.com)
@@ -23,11 +23,15 @@ I am a **Skilled Game Developer** with **Extensive Experience**, having created 
 
 ## Experience [🔝](#intro)
 
+### Freelance | Game Developer
+**(1.5 Months)** Jan 2024 - Sept 2024
+- Created multiple games with the **Rayqube Team** for **GITEX, Dubai Fitness Challenge, Saudi GHE & other major MENA Events**
+
 ### Mind Spirit Design | Game Developer
 **(7 Months)** Sept 2024 - April 2025
-- Created Engaging Experiences with Unity and Unreal Engine 5 for Innovative Hardware Integrations.
-- Provided Technical Support at GITEX, IDEX, Arab Health, Gulfood, DUPHAT, IFX, GWF, etc.
-- Designed Motion Graphics using Unreal Engine 5 for Company Advertising Campaign.
+- Created **Engaging Experiences** with **Unity & Unreal Engine 5** for Innovative Hardware Integrations.
+- Provided **Technical Support** at **GITEX, IDEX, Arab Health, Gulfood, DUPHAT, IFX, GWF, etc.**
+- Designed **Motion Graphics** using Unreal Engine 5 for Company Advertising Campaign.
   
 ### Learn with One | Game Developer
 **(9 Months)** Jan 2024 - Sept 2024
@@ -36,8 +40,8 @@ I am a **Skilled Game Developer** with **Extensive Experience**, having created 
 
 ### MIT Gaming Club | Game Development Head
 **(1 Year)** Oct 2021 - Oct 2022
-- Trained 10+ New Recruits in Unreal Engine 5 and Blender.
-- Set up and Managed the Perforce Version Control Infrastructure.
+- Trained **10+** New Recruits in Unreal Engine 5 & Blender.
+- Set up & Managed the **Perforce Version Control Infrastructure.**
 
 ## Projects[🔝](#intro)
 
@@ -74,7 +78,7 @@ I am a **Skilled Game Developer** with **Extensive Experience**, having created 
 <div align="center">
   <h3><a href = https://github.com/KenzKD#intro>Back to Top 🔝</a></h3>
   
-  [![Link Tree Alternative](https://img.shields.io/badge/Link_Tree-purple?style=for-the-badge&logo=linktree&color=a100ff)](https://linktr.ee/KenzelKD)
+  <!--[![Link Tree Alternative](https://img.shields.io/badge/Link_Tree-purple?style=for-the-badge&logo=linktree&color=a100ff)](https://linktr.ee/KenzelKD)-->
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-074c91?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kenzelkd/) 
   [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCxmsySbe12LYAMnIzT9wCJA?style=for-the-badge&logo=youtube&label=YouTube&labelColor=red&color=grey)](https://www.youtube.com/@KenzelKD) 
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kenzelkdsouza@gmail.com)
