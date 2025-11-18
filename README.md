@@ -25,23 +25,23 @@ I am a **Skilled Game Developer** with **Extensive Experience**, having created 
 
 ### Freelance | Game Developer
 **(1.5 Months)** Jan 2024 - Sept 2024
-- Created multiple games with the **Rayqube Team** for **GITEX, Dubai Fitness Challenge, Saudi GHE & other major MENA Events**
+- Created ***Multiple Games*** with the ***Rayqube Team*** for ***GITEX, Dubai Fitness Challenge, Saudi GHE*** & other ***Major MENA Events***
 
 ### Mind Spirit Design | Game Developer
 **(7 Months)** Sept 2024 - April 2025
-- Created **Engaging Experiences** with **Unity & Unreal Engine 5** for Innovative Hardware Integrations.
-- Provided **Technical Support** at **GITEX, IDEX, Arab Health, Gulfood, DUPHAT, IFX, GWF, etc.**
-- Designed **Motion Graphics** using Unreal Engine 5 for Company Advertising Campaign.
+- Created ***Engaging Experiences*** with ***Unity*** & ***Unreal Engine 5*** for ***Innovative Hardware Integrations.***
+- Provided ***Technical Support*** at ***GITEX, IDEX, Arab Health, Gulfood, DUPHAT, IFX, GWF, etc.***
+- Designed ***Motion Graphics*** using ***Unreal Engine 5*** for Company Advertising Campaign.
   
 ### Learn with One | Game Developer
 **(9 Months)** Jan 2024 - Sept 2024
-- Created **80+** Games with **Unity**
-- Built a **Template Unity Project**, used by Other **Teammates**
+- Created ***80+*** Games with ***Unity***
+- Built a ***Template Unity Project***, used by Other ***Teammates***
 
 ### MIT Gaming Club | Game Development Head
 **(1 Year)** Oct 2021 - Oct 2022
-- Trained **10+** New Recruits in Unreal Engine 5 & Blender.
-- Set up & Managed the **Perforce Version Control Infrastructure.**
+- ***Trained 10+ New Recruits*** in ***Unreal Engine 5*** & ***Blender.***
+- ***Set up*** & ***Managed*** the ***Perforce Version Control Infrastructure.***
 
 ## Projects[🔝](#intro)
 
