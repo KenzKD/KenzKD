@@ -27,7 +27,7 @@ I am a **Skilled Game Developer** with **Extensive Experience**, having created 
 
 ### Freelance | Game Developer
 **(1.5 Months)** Oct 2025 - Nov 2025
-- Created ***Multiple Games*** with the ***Rayqube Team*** for ***GITEX, Dubai Fitness Challenge, Saudi GHE*** & other ***Major MENA Events.***
+- Built ***7 Games*** with the ***[Rayqube Team](https://rayqube.com/)*** for ***Major MENA Events*** targeting either ***PC*** or ***Android*** platforms.
 - Worked with ***Cinemachine, Odin Inspector, Serial Port Utility Pro, etc.***
 
 ### Mind Spirit Design | Game Developer
