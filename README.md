@@ -28,6 +28,7 @@ I am a **Skilled Game Developer** with **Extensive Experience**, having created 
 ### Freelance | Game Developer
 **(1.5 Months)** Jan 2024 - Sept 2024
 - Created ***Multiple Games*** with the ***Rayqube Team*** for ***GITEX, Dubai Fitness Challenge, Saudi GHE*** & other ***Major MENA Events***
+- Worked with ***Cinemachine, Odin Inspector, Serial Port Utility Pro, etc.***
 
 ### Mind Spirit Design | Game Developer
 **(7 Months)** Sept 2024 - April 2025
