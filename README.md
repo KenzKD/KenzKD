@@ -7,7 +7,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kenzelkdsouza@gmail.com)
 
 <!--About Me-->
-I am a **Skilled Game Developer** with **Extensive Experience**, having created over **90 Games using Unity**. My Skills span **Unreal Engine (5+ Games), Blender (10+ Projects), Houdini (4 Projects)**, & Programming Languages such as **C#, C++, C & Python**.
+Experienced **Game Developer** with ***Unity***, having developed over ***100 Games***. My expertise extends to ***Unreal Engine (5+ Games), Blender (10+ Projects), Houdini (4 Projects)***, & Programming Languages such as ***C#, C++, C & Python***.
 
 ## Skills [🔝](#intro)
 [![Unity](https://img.shields.io/badge/unity-white.svg?style=for-the-badge&logo=unity&logoColor=black)](https://kenzkd.github.io/?toggle=unity)
@@ -28,27 +28,27 @@ I am a **Skilled Game Developer** with **Extensive Experience**, having created 
 ### Freelance | Game Developer
 **(1.5 Months)** Oct 2025 - Nov 2025
 - Built ***7 Games*** with the ***[Rayqube Team](https://rayqube.com/)*** for ***Major MENA Events*** targeting either ***PC*** or ***Android*** platforms.
-- Worked with ***Cinemachine, Odin Inspector, Serial Port Utility Pro, etc.***
+- Worked with ***Cinemachine, Odin Inspector, Serial Port Utility Pro,*** etc.
 
 ### Mind Spirit Design | Game Developer
 **(7 Months)** Sept 2024 - April 2025
-- Created ***Engaging Experiences*** with ***Unity*** & ***Unreal Engine 5*** for ***Innovative Hardware Integrations.***
-- Provided ***Technical Support*** at ***GITEX, IDEX, Arab Health, Gulfood, DUPHAT, IFX, GWF, etc.***
+- Created ***Engaging Experiences*** with ***Unity*** & ***Unreal Engine 5*** for ***Innovative Hardware Integrations***.
+- Provided ***Technical Support*** at ***GITEX, IDEX, Arab Health, Gulfood, DUPHAT, IFX, GWF,*** etc.
 - Designed ***Motion Graphics*** using ***Unreal Engine 5*** for Company Advertising Campaign.
   
 ### Learn with One | Game Developer
 **(9 Months)** Jan 2024 - Sept 2024
-- Created ***80+*** Games with ***Unity.***
-- Built a ***Template Unity Project***, used by Other ***Teammates.***
+- Created ***80+*** Games with ***Unity***.
+- Built a ***Template Unity Project***, used by Other ***Teammates***.
 
 ### MIT Gaming Club | Game Development Head
 **(1 Year)** Oct 2021 - Oct 2022
-- ***Trained 10+ New Recruits*** in ***Unreal Engine 5*** & ***Blender.***
-- ***Set up*** & ***Managed*** the ***Perforce Version Control Infrastructure.***
+- ***Trained 10+ New Recruits*** in ***Unreal Engine 5*** & ***Blender***.
+- ***Set up*** & ***Managed*** the ***Perforce Version Control Infrastructure***.
 
 ## Projects[🔝](#intro)
 
-### Unity (90+ Games)
+### Unity (100+ Games)
 [Unity Reel](https://kenzkd.github.io/?toggle=unity)
 - C#, Game Design, Game Mechanics, 3D Animation
 
