@@ -27,7 +27,7 @@ Experienced **Game Developer** with ***Unity***, having developed over ***100 Ga
 
 ### Freelance | Game Developer
 **(1.5 Months)** Oct 2025 - Nov 2025
-- Built ***7 Games*** with the ***[Rayqube Team](https://rayqube.com/)*** for ***Major MENA Events*** targeting either ***PC*** or ***Android*** platforms.
+- Built ***7 Games*** in collaboration with the ***[Rayqube Team](https://rayqube.com/)*** for ***Major MENA Events*** targeting either ***PC*** or ***Android*** platforms.
 - Worked with ***Cinemachine, Odin Inspector, Serial Port Utility Pro,*** etc.
 
 ### Mind Spirit Design | Game Developer
