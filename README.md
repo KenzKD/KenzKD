@@ -39,7 +39,7 @@ Experienced **Game Developer** with ***Unity***, having developed over ***100 Ga
 ### Learn with One | Game Developer
 **(9 Months)** Jan 2024 - Sept 2024
 - Created ***80+*** Games with ***Unity***.
-- Built a ***Template Unity Project***, used by Other ***Teammates***.
+- Built a ***Template Unity Project***, used by other ***Teammates***.
 
 ### MIT Gaming Club | Game Development Head
 **(1 Year)** Oct 2021 - Oct 2022
