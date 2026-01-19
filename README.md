@@ -62,7 +62,7 @@ Experienced **Game Developer** with ***Unity***, having developed over ***100 Ga
 
 ### Houdini (4 Projects)
 [Houdini Reel](https://kenzkd.github.io/?toggle=houdini)
--  Snow Simulation, Hair Simulation, Liquid Simulation, Particle Simulation
+- Snow Simulation, Hair Simulation, Liquid Simulation, Particle Simulation
 
 ### DaVinci Resolve (20+ Videos)
 [DaVinci Reslove Reel](https://kenzkd.github.io/?toggle=davinci)
@@ -70,7 +70,11 @@ Experienced **Game Developer** with ***Unity***, having developed over ***100 Ga
 
 ### Nvidia Omniverse (4 Projects)
 [Nvidia Omniverse Reel](https://kenzkd.github.io/?toggle=omniverse)
--  Rigid Body Simulation, Soft body Simulation, Cloth Simulation
+- Rigid Body Simulation, Soft body Simulation, Cloth Simulation
+
+### Technical Explorations (4 Projects)
+[Technical Explorations Reel](https://kenzkd.github.io/?toggle=miscellaneous)
+- C++ Vulkan Renderer, Godot, Cascaduer, TouchDesigner
 
 ## Education[🔝](#intro)
 
