@@ -26,7 +26,7 @@ Experienced **Game Developer** with ***Unity***, having developed over ***100 Ga
 ## Experience [🔝](#intro)
 
 ### Freelance | Game Developer
-**(3 Months)** Oct 2025 - Dec 2025
+**(3 Months)** Oct 2025 - Present
 - Built ***8 Games*** in collaboration with the ***[Rayqube Team](https://rayqube.com/)*** for ***Major MENA Events*** targeting either ***PC*** or ***Android*** platforms.
 - Worked with ***Cinemachine, Odin Inspector, Serial Port Utility Pro,*** etc.
 
