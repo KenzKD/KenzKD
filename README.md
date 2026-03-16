@@ -7,7 +7,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kenzelkdsouza@gmail.com)
 
 <!--About Me-->
-Experienced **Software Engineer** with ***Unity***, having developed over ***100 Games***. My expertise extends to ***Unreal Engine (5+ Games), Blender (10+ Projects), Houdini (4 Projects)***, & Programming Languages such as ***C#, C++, C & Python***.
+Experienced **_Software Engineer_** with **_Unity_**, with a portfolio of **_100+ Games_**. My expertise extends to **_Unreal Engine (5+ Games), Blender (10+ Projects), Houdini (4 Projects)_** & **_Programming Languages_** such as **_C#,Python, C++ & C_**. I excel in developing **_Gameplay Mechanics & Optimizing Performance_** to enhance user experience.
 
 ## Skills [🔝](#intro)
 [![Unity](https://img.shields.io/badge/unity-white.svg?style=for-the-badge&logo=unity&logoColor=black)](https://kenzkd.github.io/?toggle=unity)
@@ -26,25 +26,31 @@ Experienced **Software Engineer** with ***Unity***, having developed over ***100
 ## Experience [🔝](#intro)
 
 ### Freelance | Game Developer
-**(3 Months)** Oct 2025 - Present
-- Built ***8 Games*** in collaboration with the ***[Rayqube Team](https://rayqube.com/)*** for ***Major MENA Events*** targeting either ***PC*** or ***Android*** platforms.
-- Worked with ***Cinemachine, Odin Inspector, Serial Port Utility Pro,*** etc.
+**(6 Months)** Oct 2025 - Present<br>
+**Clients:** Emirates NBD, Saudi Health Council, Health Holding, Strata & more.
+
+- Created **_8 Interactive PC & Android Games_** in with the **_Rayqube Team_** for **_GITEX, Dubai Air Show, Hajj Conference_** & more.
+- Built experiences featuring mechanics such as **_Golf Putting, 3D Car Viewer, Hardware Integrated Dashboard Systems_** & more using **_Clean & Maintainable Code._**
+- **_Identified & Resolved Bugs_** during both development and production phases.
+- Integrated **_Cinemachine, Odin Inspector, Serial Port Utility Pro , Rest APIs_** & additional Unity tools to support advanced features.
 
 ### Mind Spirit Design | Game Developer
-**(7 Months)** Sept 2024 - April 2025
-- Created ***Engaging Experiences*** with ***Unity*** & ***Unreal Engine 5*** for ***Innovative Hardware Integrations***.
-- Provided ***Technical Support*** at ***GITEX, IDEX, Arab Health, Gulfood, DUPHAT, IFX, GWF,*** etc.
-- Designed ***Motion Graphics*** using ***Unreal Engine 5*** for Company Advertising Campaign.
+**(7 Months)** Sept 2024 - April 2025<br>
+**Clients:** Dubai British Embassy, Parfex, Informa & more.
+- Created **_15+ PC, Android & iOS Games_** with **_Unity & Unreal Engine 5_** for Hardware Integrations like **_XR Body Tracker, 3D Model Viewer, Animated Dashboards, Quizzes, Tetris, Pong_** & more.
+- Provided **_Technical Support_** at **_GITEX,IDEX, Arab Health, Gulfood, DUPHAT, IFX, GWF_** & more.
+- Designed **_Motion Graphics_** in **_Unreal Engine 5_** to showcase & promote the company's **_Kinetic LED Lighting_** systems.
   
 ### Learn with One | Game Developer
 **(9 Months)** Jan 2024 - Sept 2024
-- Created ***80+*** Games with ***Unity***.
-- Built a ***Template Unity Project***, used by other ***Teammates***.
+- Created **_80+ Unity WebGL Games_** across a wide range of **_Mechanics, Designs & VFX_** like **_Fishing, Driving,Puzzles, Endless Runners, Snake Soccer Games_** & more.
+- Delivered **_Consistent Performance & WebGL Optimized_** game across all projects.
+- Created a **_Unity Template Project_** integrating shared **_UI,UX & SFX_** systems, **_Improving Team Efficiency & Ensuring Consistency_** across projects.
 
 ### MIT Gaming Club | Game Development Head
 **(1 Year)** Oct 2021 - Oct 2022
-- ***Trained 10+ New Recruits*** in ***Unreal Engine 5*** & ***Blender***.
-- ***Set up*** & ***Managed*** the ***Perforce Version Control Infrastructure***.
+- Mentored **_10+ New Team Members_** in **_Unreal Engine 5_** Game Development, Blueprints & Level Design, along with **_Blender_** 3D Modelling, 3D Animation , Simulation & Texturing.
+- **_Configured & Maintained_** a robust **_Perforce Version Control System_** on an **_Azure Server_**, ensuring reliable collaboration across the team.
 
 ## Projects[🔝](#intro)
 
