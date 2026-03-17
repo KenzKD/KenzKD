@@ -7,7 +7,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kenzelkdsouza@gmail.com)
 
 <!--About Me-->
-Experienced **_Software Engineer_** with **_Unity_**, with a portfolio of **_100+ Games_**. My expertise extends to **_Unreal Engine (5+ Games), Blender (10+ Projects), Houdini (4 Projects)_** & **_Programming Languages_** such as **_C#,Python, C++ & C_**. I excel in developing **_Gameplay Mechanics & Optimizing Performance_** to enhance user experience.
+Experienced **_Software Engineer_** with **_Unity_**, with a portfolio of **_100+ Games_**. My expertise extends to **_Unreal Engine (5+ Games), Blender (10+ Projects), Houdini (4 Projects)_** & **_Programming Languages_** such as **_C#, Python, C++ & C_**. I excel in developing **_Gameplay Mechanics & Optimizing Performance_** to enhance user experience.
 
 ## Skills [🔝](#intro)
 [![Unity](https://img.shields.io/badge/unity-white.svg?style=for-the-badge&logo=unity&logoColor=black)](https://kenzkd.github.io/?toggle=unity)
