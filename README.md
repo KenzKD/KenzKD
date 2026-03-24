@@ -27,18 +27,18 @@ Experienced **_Software Engineer_** with **_Unity_**, with a portfolio of **_100
 
 ### Freelance | Game Developer
 **(6 Months)** Oct 2025 - Present<br>
-**Clients:** Emirates NBD, Saudi Health Council, Health Holding, Strata & more.
+**Clients:** Emirates NBD (Banking), Saudi Health Council (Govt. Agency), Health Holding (Medical), Strata (Aviation) & more.
 
-- Created **_8 Interactive PC & Android Games_** in with the **_Rayqube Team_** for **_GITEX, Dubai Air Show, Hajj Conference_** & more.
+- Created **_8 Interactive PC & Android Games_** in with the **_Rayqube Team_** for **_High Profile MENA Events & Exhibitions_** like **_GITEX, Dubai Air Show, Hajj Conference_** & more.
 - Built experiences featuring mechanics such as **_Golf Putting, 3D Car Viewer, Hardware Integrated Dashboard Systems_** & more using **_Clean & Maintainable Code._**
 - **_Identified & Resolved Bugs_** during both development and production phases.
 - Integrated **_Cinemachine, Odin Inspector, Serial Port Utility Pro , Rest APIs_** & additional Unity tools to support advanced features.
 
 ### Mind Spirit Design | Game Developer
 **(7 Months)** Sept 2024 - April 2025<br>
-**Clients:** Dubai British Embassy, Parfex, Informa & more.
+**Clients:** Dubai British Embassy (Govt. Agency), Parfex (Cosmetics), Informa (Medical) & more.
 - Created **_15+ PC, Android & iOS Games_** with **_Unity & Unreal Engine 5_** for Hardware Integrations like **_XR Body Tracker, 3D Model Viewer, Animated Dashboards, Quizzes, Tetris, Pong_** & more.
-- Provided **_Technical Support_** at **_GITEX,IDEX, Arab Health, Gulfood, DUPHAT, IFX, GWF_** & more.
+- Provided **_Technical Support_** at **_High Profile MENA Events & Exhibitions_** like **_GITEX,IDEX, Arab Health, Gulfood, DUPHAT, IFX, GWF_** & more.
 - Designed **_Motion Graphics_** in **_Unreal Engine 5_** to showcase & promote the company's **_Kinetic LED Lighting_** systems.
   
 ### Learn with One | Game Developer
