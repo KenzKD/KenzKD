@@ -27,7 +27,7 @@ Experienced **_Software Engineer_** with **_Unity_**, with a portfolio of **_100
 
 ### Freelance | Game Developer
 **(6 Months)** Oct 2025 - Present<br>
-**Clients:** Emirates NBD (Banking), Saudi Health Council (Govt. Agency), Health Holding (Medical), Strata (Aviation) & more.
+**Clients:** Emirates NBD (Banking), Saudi Health Council (Govt. Agency), Orca Studios (Game Studio) & more.
 
 - Created **_8 Interactive PC & Android Games_** in with the **_Rayqube Team_** for **_High Profile MENA Events & Exhibitions_** like **_GITEX, Dubai Air Show, Hajj Conference_** & more.
 - Built experiences featuring mechanics such as **_Golf Putting, 3D Car Viewer, Hardware Integrated Dashboard Systems_** & more using **_Clean & Maintainable Code._**
